@@ -1,4 +1,4 @@
-# yolo-adapter: Continual Domain Adaptation for Petrographic Thin-Section Segmentation
+# A Continual Learning Framework for Domain Adaptation in Core Thin-Section Analysis
 
 This repository introduces a continual domain adaptation framework for mineral-grain instance segmentation in petrographic thin-section images.
 
