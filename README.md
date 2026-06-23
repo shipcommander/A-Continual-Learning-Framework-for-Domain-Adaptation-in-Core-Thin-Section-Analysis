@@ -50,19 +50,4 @@ The segmentation output can also support downstream quantitative analysis, inclu
 
 ![Grain-size analysis result](images/13.png)
 
-## Repository Structure
 
-```text
-.
-+-- README.md
-+-- images/
-|   +-- *.png                  # Figures used in the GitHub README
-```
-
-## Keywords
-
-Petrographic thin section; mineral-grain instance segmentation; yolo-adapter; active learning; continual learning; domain adaptation; parameter-efficient adaptation.
-
-## Notes
-
-The repository is intended to provide a concise project overview and visual materials. Manuscript files are not required for this GitHub page.
